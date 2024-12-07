@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "pt",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "es",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "de",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "6ee4",
+      "cityName": "Bouznika",
+      "country": "Morocco",
+      "emoji": "ma",
+      "date": "2024-10-06T22:38:37.370Z",
+      "notes": "beach",
+      "position": {
+        "lat": "33.78371305547283",
+        "lng": "-7.146606445312501"
+      }
+    },
+    {
+      "id": "0e0b",
+      "cityName": "Praia",
+      "country": "Cabo Verde",
+      "emoji": "cv",
+      "date": "2024-10-07T16:18:12.852Z",
+      "notes": "ssss",
+      "position": {
+        "lat": "14.912938374530889",
+        "lng": "-23.505249023437504"
+      }
+    },
+    {
+      "id": "6b76",
+      "cityName": "Negotino",
+      "country": "North Macedonia",
+      "emoji": "mk",
+      "date": "2024-10-07T16:30:18.238Z",
+      "notes": "jjj",
+      "position": {
+        "lat": "41.60722821271717",
+        "lng": "22.016601562500004"
+      }
+    },
+    {
+      "id": "1ce9",
+      "cityName": "Memaliaj",
+      "country": "Albania",
+      "emoji": "al",
+      "date": "2024-10-09T16:30:30.000Z",
+      "notes": "",
+      "position": {
+        "lat": "40.36328834091583",
+        "lng": "20.061035156250004"
+      }
+    },
+    {
+      "id": "0fd5",
+      "cityName": "Kas",
+      "country": "Turkiye",
+      "emoji": "tr",
+      "date": "2024-10-11T23:35:53.482Z",
+      "notes": "Great City!",
+      "position": {
+        "lat": "36.19857280714778",
+        "lng": "29.641113281250004"
+      }
+    },
+    {
+      "id": "11c5",
+      "cityName": "Antalya",
+      "country": "Turkiye",
+      "emoji": "tr",
+      "date": "2024-10-11T23:39:46.253Z",
+      "notes": "!!!!",
+      "position": {
+        "lat": "36.88840804313823",
+        "lng": "30.70266723632813"
+      }
+    },
+    {
+      "id": "b99a",
+      "cityName": "Fethiye",
+      "country": "Turkiye",
+      "emoji": "tr",
+      "date": "2024-10-11T23:40:23.955Z",
+      "notes": "gggg",
+      "position": {
+        "lat": "36.62875385775956",
+        "lng": "29.13436889648438"
+      }
+    }
+  ]
+}
