@@ -1,5 +1,7 @@
 # WorldWise
 
+![WorldWise](public/map.png)
+
 An interactive world map to log and track visited or planned cities, built with React and Leaflet.
 
 You can view the project live here:
